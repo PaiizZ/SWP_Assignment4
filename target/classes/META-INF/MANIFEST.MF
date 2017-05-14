@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: wanchanapon
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: TAWEESOFT
+Implementation-Vendor-Id: wanchanapon
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/wanchanapon/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
